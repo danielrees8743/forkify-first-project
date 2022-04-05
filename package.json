@@ -8,7 +8,7 @@
     "main": false
   },
   "scripts": {
-    "start": "parcel serve.html ",
+    "start": "parcel index.html ",
     "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Dan",
