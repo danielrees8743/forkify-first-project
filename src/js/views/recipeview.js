@@ -1,10 +1,10 @@
-import View from './view.js';
+import view from './view.js';
 
 import icons from 'url:../../img/icons.svg';
 // import { Fractional } from 'fractional';
 import fracty from 'fracty';
 
-class RecipeView extends View {
+class RecipeView extends view {
   _parentElement = document.querySelector('.recipe');
   _errorMessage = 'Could not find that recipe, Please try another ';
   _message = '';
