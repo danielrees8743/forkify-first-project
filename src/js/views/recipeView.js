@@ -1,4 +1,3 @@
-<<<<<<< HEAD:src/js/views/recipeview.js
 import view from './view.js';
 
 import icons from 'url:../../img/icons.svg';
@@ -142,5 +141,3 @@ class RecipeView extends view {
 }
 
 export default new RecipeView();
-
-
